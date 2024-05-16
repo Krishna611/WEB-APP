@@ -12,3 +12,7 @@ npm install axios
 App Component: This will be the main component.
 SearchBar Component: This will handle the user's search input.
 ImageList Component: This will display the fetched images.
+
+
+Run the App
+npm start
